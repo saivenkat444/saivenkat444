@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm SAI VENKAT</h1>
 <h3 align="center">🚀 Passionate Developer | Open-Source Enthusiast</h3>
 
 <p align="center">
@@ -25,29 +25,29 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saivenkat444&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivenkat444&theme=dark" width="48%"/>
 </p>
 
 ---
 
 ## 🔥 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkat444&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
 
 ## 🚀 Latest Projects  
-- 🔹 [Project 1](https://github.com/yourusername/project1)  
-- 🔹 [Project 2](https://github.com/yourusername/project2)  
-- 🔹 [Project 3](https://github.com/yourusername/project3)  
+- 🔹 [Project 1](https://github.com/saivenkat444/project1)  
+- 🔹 [Project 2](https://github.com/saivenkat444/project2)  
+- 🔹 [Project 3](https://github.com/saivenkat444/project3)  
 
 ---
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saivenkat444&theme=radical&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -56,13 +56,3 @@
 **"I love debugging more than writing code... or maybe not. 😆"**
 
 ---
-
-### 🎨 **How to Use This?**  
-1. Copy this into your `README.md` file.  
-2. Replace **`yourusername`** and **`yourprofile`** with your actual GitHub username and links.  
-3. Commit and push changes.  
-4. Enjoy your **awesome** GitHub profile! 🚀🔥  
-
----
-
-This template makes your profile **look professional, fun, and engaging**. Let me know if you want customizations! 😎✨
