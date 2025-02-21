@@ -43,7 +43,7 @@
 
 ## 🚀 Latest Projects
 
-- 🔹 [Project 1](https://github.com/saivenkat444/project1)
+- 🔹 [Exploding Kittens](https://github.com/saivenkat444/explodingKittens)
 - 🔹 [Project 2](https://github.com/saivenkat444/project2)
 - 🔹 [Project 3](https://github.com/saivenkat444/project3)
 
