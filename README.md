@@ -4,7 +4,6 @@
 
 ---
 
-|   ![Your Avatar](https://github.com/saivenkat444.png?s=100)   |
 | :-----------------------------------------------------------: |
 |             **Hi there! Welcome to my profile.**              |
 | **I love coding, learning, and contributing to open source.** |
