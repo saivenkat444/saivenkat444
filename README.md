@@ -4,9 +4,10 @@
 
 ---
 
-|                                                               |
+<!-- |                                                               | -->
+
 | :-----------------------------------------------------------: |
-|             **Hi there! Welcome to my profile.**              |
+| **Hi there! Welcome to my profile.** |
 | **I love coding, learning, and contributing to open source.** |
 
 ---
