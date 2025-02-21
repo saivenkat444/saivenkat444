@@ -22,7 +22,6 @@
 
 | ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saivenkat444&show_icons=true&theme=radical) |
 | :------------------------------------------------------------------------------------------------------------------: |
-|          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saivenkat444&theme=light)           |
 
 ---
 
