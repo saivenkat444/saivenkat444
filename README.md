@@ -44,7 +44,7 @@
 ## 🚀 Latest Projects
 
 - 🔹 [Exploding Kittens](https://github.com/saivenkat444/explodingKittens)
-- 🔹 [Project 2](https://github.com/saivenkat444/project2)
+- 🔹 [Minecraft cloned site](https://github.com/saivenkat444/MINECRAFT)
 - 🔹 [Project 3](https://github.com/saivenkat444/project3)
 
 ---
