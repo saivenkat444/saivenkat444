@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🌟 Hi, I'm YOUR NAME 🌟
+# 🌟 Hi, I'm SAI VENKAT 🌟
 
 🚀 Passionate Developer | Open-Source Enthusiast
 
@@ -15,9 +13,8 @@
 
 ## 🛠 Tech Stack
 
-|  ![HTML](https://skillicons.dev/icons?i=html)  |    ![CSS](https://skillicons.dev/icons?i=css)     | ![JavaScript](https://skillicons.dev/icons?i=javascript) |
-| :--------------------------------------------: | :-----------------------------------------------: | :------------------------------------------------------: |
-| ![React](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) |    ![MongoDB](https://skillicons.dev/icons?i=mongodb)    |
+| ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+| :------------------------------------------: | :----------------------------------------: | :------------------------------------------------------: |
 
 ---
 
